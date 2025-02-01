@@ -66,4 +66,4 @@ npm run dev
 - [Vercel へのデプロイ](https://github.com/microcmsio/nextjs-simple-corporate-site-template/blob/main/docs/vercel-deploy.md)
 
 
-設定でかなりてこづってしまったので、細かいところが終われてないです
+設定でかなりてこづってしまったので、終われてないです
