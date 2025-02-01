@@ -15,9 +15,9 @@ export default async function Page() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>テクノロジーの力で世界を変える</h1>
+          <h1 className={styles.title}>金子妃茉莉</h1>
           <p className={styles.description}>
-            私たちは市場をリードしているグローバルテックカンパニーです。
+            Kaneko Himari
           </p>
         </div>
         <Image
@@ -40,13 +40,13 @@ export default async function Page() {
         <div className={styles.horizontal}>
           <div>
             <h2 className={styles.sectionTitleEn}>Business</h2>
-            <p className={styles.sectionTitleJa}>事業内容</p>
+            <p className={styles.sectionTitleJa}>志望動機</p>
             <p className={styles.sectionDescription}>
-              当社は、次世代テクノロジーの研究開発・製造・販売を行う革新的な企業です。
+              
               <br />
               AI、ロボット工学、自律システムなど、幅広い分野でのソリューション提供を通じて、社会の進化と未来の創造に貢献します。
             </p>
-            <ButtonLink href="/business">もっとみる</ButtonLink>
+            <ButtonLink href="/business"></ButtonLink>
           </div>
           <Image
             className={styles.businessImg}
@@ -68,34 +68,34 @@ export default async function Page() {
               height={4000}
             />
             <div>
-              <h2 className={styles.sectionTitleEn}>About Us</h2>
-              <p className={styles.sectionTitleJa}>私たちについて</p>
+              <h2 className={styles.sectionTitleEn}></h2>
+              <p className={styles.sectionTitleJa}></p>
               <p className={styles.sectionDescription}>
-                「テクノロジーの力で世界を変える」をミッションに掲げ、日々活動をしています。
+                
               </p>
               <dl className={styles.info}>
-                <dt className={styles.infoTitle}>社名</dt>
-                <dd className={styles.infoDescription}>株式会社Simple</dd>
+                <dt className={styles.infoTitle}></dt>
+                <dd className={styles.infoDescription}>/dd>
               </dl>
               <dl className={styles.info}>
-                <dt className={styles.infoTitle}>設立</dt>
-                <dd className={styles.infoDescription}>2023年4月</dd>
+                <dt className={styles.infoTitle}></dt>
+                <dd className={styles.infoDescription}></dd>
               </dl>
               <dl className={styles.info}>
-                <dt className={styles.infoTitle}>所在地</dt>
+                <dt className={styles.infoTitle}></dt>
                 <dd className={styles.infoDescription}>
-                  〒000-0000
+                  
                   <br />
-                  東京都渋谷区渋谷1-1-1
+                  
                 </dd>
               </dl>
               <dl className={styles.info}>
-                <dt className={styles.infoTitle}>代表者</dt>
-                <dd className={styles.infoDescription}>鈴木 太郎</dd>
+                <dt className={styles.infoTitle}></dt>
+                <dd className={styles.infoDescription}></dd>
               </dl>
               <dl className={styles.info}>
-                <dt className={styles.infoTitle}>資本金</dt>
-                <dd className={styles.infoDescription}>1,000万円</dd>
+                <dt className={styles.infoTitle}></dt>
+                <dd className={styles.infoDescription}></dd>
               </dl>
             </div>
           </div>
@@ -104,14 +104,14 @@ export default async function Page() {
       <section className={styles.section}>
         <div className={styles.horizontal}>
           <div>
-            <h2 className={styles.sectionTitleEn}>We are hiring</h2>
-            <p className={styles.sectionTitleJa}>採用情報</p>
+            <h2 className={styles.sectionTitleEn}></h2>
+            <p className={styles.sectionTitleJa}></p>
             <p className={styles.sectionDescription}>
-              当社では、チャレンジ精神を持った人材を求めています。
+              
               <br />
-              新しいアイデアを出し合い、成長する環境で活躍したい方は、ぜひご応募ください。当社でのキャリアを築きながら、技術の最前線で力を発揮しましょう。
+              
             </p>
-            <ButtonLink href="">採用情報へ</ButtonLink>
+            <ButtonLink href="">長所・短所へ</ButtonLink>
           </div>
           <Image
             className={styles.hiringImg}
